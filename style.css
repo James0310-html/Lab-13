@@ -1,0 +1,27 @@
+body {
+  padding-top: 3rem;
+}
+
+.carousel-item {
+  height: 32rem;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-img1 {
+  background-color: white;
+  background-size: cover;
+  background-image: url(img/landscape-nature-purple-sky-winter-wallpaper-preview.jpg);
+}
+
+.bg-img2 {
+  background-color: white;
+  background-size: cover;
+  background-image: url(img/blue-clouds-dark-grass-wallpaper-preview.jpg);
+}
+
+.bg-img3 {
+  background-color: white;
+  background-size: cover;
+  background-image: url(img/thumb-1920-708956.jpg);
+}
