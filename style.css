@@ -11,17 +11,17 @@ body {
 .bg-img1 {
   background-color: white;
   background-size: cover;
-  background-image: url(landscape-nature-purple-sky-winter-wallpaper-preview.jpg);
+  background-image: url('/landscape-nature-purple-sky-winter-wallpaper-preview.jpg');
 }
 
 .bg-img2 {
   background-color: white;
   background-size: cover;
-  background-image: url(blue-clouds-dark-grass-wallpaper-preview.jpg);
+  background-image: url('/blue-clouds-dark-grass-wallpaper-preview.jpg');
 }
 
 .bg-img3 {
   background-color: white;
   background-size: cover;
-  background-image: url(thumb-1920-708956.jpg);
+  background-image: url('/thumb-1920-708956.jpg');
 }
